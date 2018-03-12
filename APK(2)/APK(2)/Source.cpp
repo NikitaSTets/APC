@@ -19,7 +19,7 @@ int main()
 	{
 		for (int j = 0; j < column; j++)
 		{
-			matrix[i][j] = rand() % 4000;
+			matrix[i][j] = rand() % 500;
 			sum += matrix[i][j];
 			
 		}
@@ -77,7 +77,7 @@ int main()
 		loop l2
 		
 		movd eax, MM7 //перемещение двойного слова
-		psrlq MM7, 1 //логический сдвиг вправо на 4 байта
+		psrlq MM7, 32 //логический сдвиг вправо на 4 байта
 		movd ebx, MM7 //
 
 		add eax, ebx //в eax - сумма по текущей строке

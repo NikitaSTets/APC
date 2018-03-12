@@ -1,6 +1,1 @@
-﻿  Source.cpp
-c:\users\никита\documents\visual studio 2015\projects\apk(2)\apk(2)\source.cpp(58): warning C4101: str1: неиспользованная локальная переменная
-c:\users\никита\documents\visual studio 2015\projects\apk(2)\apk(2)\source.cpp(11): warning C4101: c: неиспользованная локальная переменная
-c:\users\никита\documents\visual studio 2015\projects\apk(2)\apk(2)\source.cpp(59): warning C4101: str2: неиспользованная локальная переменная
-  APK(2).vcxproj -> C:\Users\Никита\documents\visual studio 2015\Projects\APK(2)\Debug\APK(2).exe
-  APK(2).vcxproj -> C:\Users\Никита\documents\visual studio 2015\Projects\APK(2)\Debug\APK(2).pdb (Full PDB)
+﻿LINK : fatal error LNK1168: не удается открыть D:\Загрузки\4 сем\АПК\APC(my labs)\APK(2)\Debug\APK(2).exe для записи
